@@ -1,0 +1,5 @@
+ax_threshold: 12.0
+csvFileName: 3d_bbox_z=
+inputCsvFileDir: data\preprocessed\bbox
+inputImageFile: data\raw\test\org\Image_2~48_test.mhd
+outputImageFile: results/Image_2~48_test.mhd
